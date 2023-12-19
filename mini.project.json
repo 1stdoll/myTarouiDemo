@@ -1,0 +1,11 @@
+{
+  "format": 2,
+  "developOptions": {
+    "hotReload": true
+  },
+  "compileOptions": {
+    "enableNodeModuleBabelTransform": true,
+    "component2": true,
+    "globalObjectMode": "enable"
+  }
+}
